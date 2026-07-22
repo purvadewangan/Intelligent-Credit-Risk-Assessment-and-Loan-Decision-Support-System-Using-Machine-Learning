@@ -50,6 +50,7 @@ This project addresses this challenge by developing an intelligent credit risk a
 
 ## Project Workflow
 
+![Workflow](images/project_workflow.png)
 
 
 ---
